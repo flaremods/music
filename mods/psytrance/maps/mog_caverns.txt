@@ -1,0 +1,4 @@
+APPEND
+# to maps/mog_caverns.txt
+
+music=music/cave_theme.ogg

@@ -1,0 +1,4 @@
+APPEND
+# to maps/torture_chambers.txt
+
+music=music/dungeon_theme.ogg

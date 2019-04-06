@@ -1,0 +1,4 @@
+APPEND
+# to maps/arrival.txt
+
+music=music/wind_ambient.ogg

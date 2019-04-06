@@ -1,0 +1,4 @@
+APPEND
+# to maps/grot_lagoon.txt
+
+music=music/magical_theme.ogg

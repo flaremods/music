@@ -1,0 +1,4 @@
+APPEND
+# to maps/stonewood.txt
+
+music=music/forest_theme.ogg

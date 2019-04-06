@@ -1,0 +1,4 @@
+APPEND
+# to maps/hyperspace.txt
+
+music=music/safe_room_theme.ogg

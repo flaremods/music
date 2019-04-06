@@ -1,0 +1,4 @@
+APPEND
+# to maps/abandoned_mines.txt
+
+music=music/cave_theme.ogg

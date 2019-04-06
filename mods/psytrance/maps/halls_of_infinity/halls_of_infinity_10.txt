@@ -1,0 +1,4 @@
+APPEND
+# to maps/halls_of_infinity/halls_of_infinity_10.txt
+
+music=music/cave_theme.ogg

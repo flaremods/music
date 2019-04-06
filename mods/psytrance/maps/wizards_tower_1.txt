@@ -1,0 +1,4 @@
+APPEND
+# to maps/wizards_tower_1.txt
+
+music=music/dungeon_theme.ogg

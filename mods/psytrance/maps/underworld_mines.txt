@@ -1,0 +1,4 @@
+APPEND
+# to maps/underworld_mines.txt
+
+music=music/cave_theme.ogg

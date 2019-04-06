@@ -1,0 +1,4 @@
+APPEND
+# to maps/antlion_nest.txt
+
+music=music/cave_theme.ogg

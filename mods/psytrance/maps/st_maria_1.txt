@@ -1,0 +1,4 @@
+APPEND
+# to maps/st_maria_1.txt
+
+music=music/dungeon_theme.ogg

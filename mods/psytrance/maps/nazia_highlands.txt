@@ -1,0 +1,4 @@
+APPEND
+# to maps/nazia_highlands.txt
+
+music=music/overworld_theme.ogg

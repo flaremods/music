@@ -1,0 +1,4 @@
+APPEND
+# to maps/halls_of_infinity/halls_of_infinity_3.txt
+
+music=music/dungeon_theme.ogg

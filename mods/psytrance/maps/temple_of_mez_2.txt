@@ -1,0 +1,4 @@
+APPEND
+# to maps/temple_of_mez_2.txt
+
+music=music/dungeon_theme.ogg

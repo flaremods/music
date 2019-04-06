@@ -1,0 +1,5 @@
+APPEND
+# to maps/the_pit.txt
+
+music=music/wind_ambient.ogg
+music=music/boss_theme.ogg

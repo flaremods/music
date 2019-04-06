@@ -1,0 +1,4 @@
+APPEND
+# to maps/st_maria_3.txt
+
+music=music/boss_theme.ogg

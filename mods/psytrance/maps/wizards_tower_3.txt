@@ -1,0 +1,4 @@
+APPEND
+# to maps/wizards_tower_3.txt
+
+music=music/boss_theme.ogg

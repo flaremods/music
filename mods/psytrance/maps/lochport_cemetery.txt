@@ -1,0 +1,4 @@
+APPEND
+# to maps/lochport_cemetery.txt
+
+music=music/forest_theme.ogg

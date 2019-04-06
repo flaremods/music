@@ -1,0 +1,4 @@
+APPEND
+# to maps/river_trail.txt
+
+music=music/wind_ambient.ogg

@@ -1,0 +1,4 @@
+APPEND
+# to maps/goblin_cave.txt
+
+music=music/cave_theme.ogg

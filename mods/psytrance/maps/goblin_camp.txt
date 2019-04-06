@@ -1,0 +1,4 @@
+APPEND
+# to maps/goblin_camp.txt
+
+music=music/overworld_theme.ogg
