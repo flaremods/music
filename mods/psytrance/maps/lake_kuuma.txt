@@ -1,4 +1,5 @@
 APPEND
 # to maps/lake_kuuma.txt
 
+[header]
 music=music/magical_theme.ogg

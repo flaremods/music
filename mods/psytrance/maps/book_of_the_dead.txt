@@ -1,4 +1,5 @@
 APPEND
 # to maps/book_of_the_dead.txt
 
+[header]
 music=music/unrest_theme.ogg

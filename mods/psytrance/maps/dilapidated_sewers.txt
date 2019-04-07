@@ -1,4 +1,5 @@
 APPEND
 # to maps/dilapidated_sewers.txt
 
+[header]
 music=music/dungeon_theme.ogg

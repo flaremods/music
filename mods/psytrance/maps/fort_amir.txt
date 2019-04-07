@@ -1,4 +1,5 @@
 APPEND
 # to maps/fort_amir.txt
 
-music=music/dungeon_theme.ogg
+[header]
+music=music/dungeon_theme3.ogg

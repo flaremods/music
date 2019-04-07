@@ -1,4 +1,5 @@
 APPEND
 # to maps/underworld_stronghold_2.txt
 
+[header]
 music=music/battle_theme.ogg

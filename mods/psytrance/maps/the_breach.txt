@@ -1,4 +1,5 @@
 APPEND
 # to maps/the_breach.txt
 
+[header]
 music=music/cave_theme.ogg

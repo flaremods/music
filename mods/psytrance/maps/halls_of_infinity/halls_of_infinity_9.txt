@@ -1,4 +1,5 @@
 APPEND
 # to maps/halls_of_infinity/halls_of_infinity_9.txt
 
+[header]
 music=music/forest_theme.ogg

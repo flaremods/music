@@ -1,4 +1,5 @@
 APPEND
 # to maps/nazia_mines.txt
 
+[header]
 music=music/cave_theme.ogg

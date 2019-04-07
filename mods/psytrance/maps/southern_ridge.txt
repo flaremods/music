@@ -1,4 +1,5 @@
 APPEND
 # to maps/southern_ridge.txt
 
+[header]
 music=music/overworld_theme.ogg

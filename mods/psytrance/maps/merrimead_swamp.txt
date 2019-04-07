@@ -1,4 +1,5 @@
 APPEND
 # to maps/merrimead_swamp.txt
 
+[header]
 music=music/overworld_theme.ogg

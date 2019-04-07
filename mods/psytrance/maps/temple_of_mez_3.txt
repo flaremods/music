@@ -1,4 +1,5 @@
 APPEND
 # to maps/temple_of_mez_3.txt
 
+[header]
 music=music/boss_theme.ogg

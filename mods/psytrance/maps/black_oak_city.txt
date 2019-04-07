@@ -1,4 +1,5 @@
 APPEND
 # to maps/black_oak_city.txt
 
+[header]
 music=music/forest_theme.ogg

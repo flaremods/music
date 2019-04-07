@@ -1,0 +1,4 @@
+description=Trance sound overhaul.
+requires=fantasycore
+game=flare-game
+version=0.6

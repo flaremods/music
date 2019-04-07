@@ -1,4 +1,5 @@
 APPEND
 # to maps/underworld.txt
 
+[header]
 music=music/cave_theme.ogg

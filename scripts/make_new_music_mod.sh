@@ -33,6 +33,7 @@ for org_fp in $(find $ORIGINAL_MOD/$MAP_DIR/ -name *.txt); do
 APPEND
 # to $base_path
 
+[header]
 $music
 EOF
 		#echo "APPEND\n# to $base_path\n\n$music" > $NEW_MOD/$base_path 

@@ -1,4 +1,5 @@
 APPEND
 # to maps/fort_nasu.txt
 
+[header]
 music=music/dungeon_theme.ogg

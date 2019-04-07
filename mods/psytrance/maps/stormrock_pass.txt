@@ -1,4 +1,5 @@
 APPEND
 # to maps/stormrock_pass.txt
 
+[header]
 music=music/magical_theme.ogg

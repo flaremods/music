@@ -1,4 +1,5 @@
 APPEND
 # to maps/salted_field.txt
 
+[header]
 music=music/unrest_theme.ogg

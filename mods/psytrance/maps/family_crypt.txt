@@ -1,4 +1,5 @@
 APPEND
 # to maps/family_crypt.txt
 
+[header]
 music=music/dungeon_theme.ogg

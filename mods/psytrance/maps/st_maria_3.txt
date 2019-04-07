@@ -1,4 +1,17 @@
 APPEND
 # to maps/st_maria_3.txt
 
+[header]
+music=music/dungeon_theme2.ogg
+
+# change music on gate close
+[event]
+# lock door
+type=event
+location=15,41,4,1
+activate=on_trigger
+mapmod=object,16,45,115;collision,16,45,1
+repeat=false
+soundfx=soundfx/door_open.ogg
 music=music/boss_theme.ogg
+

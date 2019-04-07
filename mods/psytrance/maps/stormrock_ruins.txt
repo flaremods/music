@@ -1,4 +1,5 @@
 APPEND
 # to maps/stormrock_ruins.txt
 
+[header]
 music=music/dungeon_theme.ogg
